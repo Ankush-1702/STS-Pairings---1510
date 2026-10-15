@@ -1,1 +1,1 @@
-# STS-Pairings---1510
+# sts-detection-service
